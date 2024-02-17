@@ -1,0 +1,15 @@
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Operators/Operators/bin/Debug/net6.0/Operators
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Operators/Operators/bin/Debug/net6.0/Operators.deps.json
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Operators/Operators/bin/Debug/net6.0/Operators.runtimeconfig.json
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Operators/Operators/bin/Debug/net6.0/Operators.dll
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Operators/Operators/bin/Debug/net6.0/Operators.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Operators/Operators/obj/Debug/net6.0/Operators.csproj.AssemblyReference.cache
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Operators/Operators/obj/Debug/net6.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Operators/Operators/obj/Debug/net6.0/Operators.AssemblyInfoInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Operators/Operators/obj/Debug/net6.0/Operators.AssemblyInfo.cs
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Operators/Operators/obj/Debug/net6.0/Operators.csproj.CoreCompileInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Operators/Operators/obj/Debug/net6.0/Operators.dll
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Operators/Operators/obj/Debug/net6.0/refint/Operators.dll
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Operators/Operators/obj/Debug/net6.0/Operators.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Operators/Operators/obj/Debug/net6.0/Operators.genruntimeconfig.cache
+/Users/kamranimranli/Desktop/CodeAcademy/C#/Practice/Operators/Operators/obj/Debug/net6.0/ref/Operators.dll
